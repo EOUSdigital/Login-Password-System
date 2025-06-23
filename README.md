@@ -91,5 +91,5 @@ This challenge demonstrates mastery of:
 - ✅ Return flow
 - ✅ Realistic error handling
 
-Great for practicing **control flow** and **real-world login systems**!
+Great for **control flow** and **real-world login systems**!
 
