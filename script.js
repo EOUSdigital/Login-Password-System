@@ -105,7 +105,7 @@ console.log(checkPassword());
 //  1. ✅ 3 password attempts per session
 //  2. ✅ Wait warning after each failed session
 //  3. ✅ Lock account after 2 failed sessions (i.e., 6 total incorrect attempts)
-//  4. ✅ Display final outcome (Access granted, Please wait, or Account locked)
+//  4. ✅ Display outcome (Access granted, Please wait, or Account locked)
 
 //* 🧠 Pseudocode
 
@@ -126,7 +126,7 @@ console.log(checkPassword());
 //          INCREMENT failedSessions
 //          PRINT "Please wait X minutes"
 //      END WHILE
-//      RETURN "Account locked. PLease reset your password."
+//      RETURN "Account locked. Please reset your password."
 //  END FUNCTION
 
 //! Solution
