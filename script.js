@@ -77,7 +77,7 @@ console.log(checkPassword());
 //  • Usually 3 – 5 tries before temporarily blocking further input.
 //  • Prevents brute-force attacks.
 
-//? ⏳ 2. Increasing wait times on repeated failure
+//? ⏳ 2. Increasing wait times due to repeated failure
 //  Example:
 //  • After 1st set of failed attempts → wait 1 minute
 //  • After 2nd set → wait 15 minutes
